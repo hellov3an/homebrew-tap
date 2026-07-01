@@ -1,6 +1,6 @@
 cask "onekomac" do
-  version "3.2.0"
-  sha256 "0010adf2a21d0b6fff87eee1e9d71ff55334a37eda11200b9f1b142a49f8e2b5"
+  version "3.3.0"
+  sha256 "0bdd49006ec38867cbeca96b154641364d51da701d3a106e8d124e47806111da"
 
   url "https://github.com/hellov3an/OnekoMac/releases/download/v#{version}/OnekoMac-v#{version}.dmg"
   name "OnekoMac"
