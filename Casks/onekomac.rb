@@ -7,7 +7,7 @@ cask "onekomac" do
   desc "Pixel art cat that lives in your menu bar and chases your cursor"
   homepage "https://hellov3an.github.io/OnekoMac/"
 
-  depends_on macos: ">= :ventura"
+  depends_on macos: :ventura
 
   app "OnekoMac.app"
 
